@@ -1,0 +1,12 @@
+first time code push:
+-----------
+git init
+git add .
+
+git commit -m"initial commit"
+git branch -M master main
+git remote add origin your-github-repo link
+git push -u origin main
+
+after first push
+--------------
